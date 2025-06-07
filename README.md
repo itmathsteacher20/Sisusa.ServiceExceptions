@@ -252,12 +252,12 @@ Thrown when authorization fails(user is logged in but not permitted to do the op
 ### Basic Usage
 ```csharp
 var requiredPermission = "EDIT_ORDERS";
-UnauthorizedAccessException.ThrowIf(u=> !u.HasPermission(requiredPermission), user, requiredPermission);
+AccessDeniedException.ThrowIf(u=> !u.HasPermission(requiredPermission), user, requiredPermission);
 
 //or if you prefer to be more verbose:
 if (!user.HasPermission("EDIT_ORDERS"))
 {
-    throw new UnauthorizedAccessException("EDIT_ORDERS");
+    throw new AccessDeniedException("EDIT_ORDERS");
 }
 
 ```
@@ -268,7 +268,7 @@ public void DeleteUser(int userId, User requestingUser)
 {
     if (!requestingUser.IsAdmin)
     {
-        throw new UnauthorizedAccessException("DELETE_USERS");
+        throw new AccessDeniedException("DELETE_USERS");
     }
     
     _userRepository.Delete(userId);
@@ -295,7 +295,7 @@ app.UseExceptionHandler(appError =>
                 await context.Response.WriteAsJsonAsync(new { ex.Message });
                 break;
                 
-            case UnauthorizedAccessException ex:
+            case AccessDeniedException ex:
                 context.Response.StatusCode = (int)HttpStatusCode.Forbidden;
                 await context.Response.WriteAsJsonAsync(new { ex.Message, ex.RequiresPermission });
                 break;
