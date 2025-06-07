@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Documents\\GitHub\\Sisusa.ServiceExceptions\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{573A3C71-5B39-0ABB-9CCF-E8292154E7D6}|Sisusa.ServiceExceptions.csproj|e:\\documents\\github\\sisusa.serviceexceptions\\sisusa.serviceexceptions.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{573A3C71-5B39-0ABB-9CCF-E8292154E7D6}|Sisusa.ServiceExceptions.csproj|solutionrelative:sisusa.serviceexceptions.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{573A3C71-5B39-0ABB-9CCF-E8292154E7D6}|Sisusa.ServiceExceptions.csproj|e:\\documents\\github\\sisusa.serviceexceptions\\sisusa.serviceexceptions.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{573A3C71-5B39-0ABB-9CCF-E8292154E7D6}|Sisusa.ServiceExceptions.csproj|solutionrelative:sisusa.serviceexceptions.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{573A3C71-5B39-0ABB-9CCF-E8292154E7D6}|Sisusa.ServiceExceptions.csproj|e:\\documents\\github\\sisusa.serviceexceptions\\readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{573A3C71-5B39-0ABB-9CCF-E8292154E7D6}|Sisusa.ServiceExceptions.csproj|solutionrelative:readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Sisusa.ServiceExceptions",
+              "DocumentMoniker": "E:\\Documents\\GitHub\\Sisusa.ServiceExceptions\\Sisusa.ServiceExceptions.csproj",
+              "RelativeDocumentMoniker": "Sisusa.ServiceExceptions.csproj",
+              "ToolTip": "E:\\Documents\\GitHub\\Sisusa.ServiceExceptions\\Sisusa.ServiceExceptions.csproj",
+              "RelativeToolTip": "Sisusa.ServiceExceptions.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-06-07T12:25:42.523Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Sisusa.ServiceExceptions",
+              "DocumentMoniker": "E:\\Documents\\GitHub\\Sisusa.ServiceExceptions\\Sisusa.ServiceExceptions.csproj",
+              "RelativeDocumentMoniker": "Sisusa.ServiceExceptions.csproj",
+              "ToolTip": "E:\\Documents\\GitHub\\Sisusa.ServiceExceptions\\Sisusa.ServiceExceptions.csproj",
+              "RelativeToolTip": "Sisusa.ServiceExceptions.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-06-07T12:25:37.927Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "README.md",
+              "DocumentMoniker": "E:\\Documents\\GitHub\\Sisusa.ServiceExceptions\\README.md",
+              "RelativeDocumentMoniker": "README.md",
+              "ToolTip": "E:\\Documents\\GitHub\\Sisusa.ServiceExceptions\\README.md",
+              "RelativeToolTip": "README.md",
+              "ViewState": "AgIAANcAAAAAAAAAAAAAANsAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2025-06-07T12:23:22.826Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

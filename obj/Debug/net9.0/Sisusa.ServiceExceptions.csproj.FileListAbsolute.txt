@@ -1,0 +1,11 @@
+E:\Documents\GitHub\Sisusa.ServiceExceptions\obj\Debug\net9.0\Sisusa.ServiceExceptions.GeneratedMSBuildEditorConfig.editorconfig
+E:\Documents\GitHub\Sisusa.ServiceExceptions\obj\Debug\net9.0\Sisusa.ServiceExceptions.AssemblyInfoInputs.cache
+E:\Documents\GitHub\Sisusa.ServiceExceptions\obj\Debug\net9.0\Sisusa.ServiceExceptions.AssemblyInfo.cs
+E:\Documents\GitHub\Sisusa.ServiceExceptions\obj\Debug\net9.0\Sisusa.ServiceExceptions.csproj.CoreCompileInputs.cache
+E:\Documents\GitHub\Sisusa.ServiceExceptions\bin\Debug\net9.0\Sisusa.ServiceExceptions.deps.json
+E:\Documents\GitHub\Sisusa.ServiceExceptions\bin\Debug\net9.0\Sisusa.ServiceExceptions.dll
+E:\Documents\GitHub\Sisusa.ServiceExceptions\bin\Debug\net9.0\Sisusa.ServiceExceptions.pdb
+E:\Documents\GitHub\Sisusa.ServiceExceptions\obj\Debug\net9.0\Sisusa.ServiceExceptions.dll
+E:\Documents\GitHub\Sisusa.ServiceExceptions\obj\Debug\net9.0\refint\Sisusa.ServiceExceptions.dll
+E:\Documents\GitHub\Sisusa.ServiceExceptions\obj\Debug\net9.0\Sisusa.ServiceExceptions.pdb
+E:\Documents\GitHub\Sisusa.ServiceExceptions\obj\Debug\net9.0\ref\Sisusa.ServiceExceptions.dll

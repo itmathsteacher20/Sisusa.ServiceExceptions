@@ -1,0 +1,27 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net9.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+    <Title>Service Exceptions</Title>
+    <Description>Utility library for commonly used Exceptions in the service layer.</Description>
+    <Copyright>(c) 2025, T_Dlamini</Copyright>
+    <RepositoryUrl>https://github.com/itmathsteacher20/Sisusa.ServiceExceptions</RepositoryUrl>
+    <RepositoryType>git</RepositoryType>
+    <PackageTags>exceptions;unauthorizedaccess;entitynotfound;concurrencyexception;sisusa</PackageTags>
+    <PackageReleaseNotes>Initial Release</PackageReleaseNotes>
+    <PackageRequireLicenseAcceptance>true</PackageRequireLicenseAcceptance>
+    <PackageReadmeFile>README.md</PackageReadmeFile>
+    <PackageLicenseExpression>MIT</PackageLicenseExpression>
+    <GeneratePackageOnBuild>True</GeneratePackageOnBuild>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Update="README.md">
+      <Pack>True</Pack>
+      <PackagePath>\</PackagePath>
+    </None>
+  </ItemGroup>
+
+</Project>

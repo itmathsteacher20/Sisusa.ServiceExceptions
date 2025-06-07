@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>Sisusa.ServiceExceptions</id>
+    <version>1.0.0</version>
+    <title>Service Exceptions</title>
+    <authors>Sisusa.ServiceExceptions</authors>
+    <requireLicenseAcceptance>true</requireLicenseAcceptance>
+    <license type="expression">MIT</license>
+    <licenseUrl>https://licenses.nuget.org/MIT</licenseUrl>
+    <readme>README.md</readme>
+    <description>Utility library for commonly used Exceptions in the service layer.</description>
+    <releaseNotes>Initial Release</releaseNotes>
+    <copyright>(c) 2025, T_Dlamini</copyright>
+    <tags>exceptions unauthorizedaccess entitynotfound concurrencyexception sisusa</tags>
+    <repository type="git" url="https://github.com/itmathsteacher20/Sisusa.ServiceExceptions" />
+    <dependencies>
+      <group targetFramework="net9.0" />
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="E:\Documents\GitHub\Sisusa.ServiceExceptions\bin\Release\net9.0\Sisusa.ServiceExceptions.dll" target="lib\net9.0\Sisusa.ServiceExceptions.dll" />
+    <file src="E:\Documents\GitHub\Sisusa.ServiceExceptions\README.md" target="\README.md" />
+  </files>
+</package>
