@@ -4,13 +4,13 @@ This document provides comprehensive usage examples and best practices for the `
 
 ## Table of Contents
 1. [ServiceException](#serviceexception)
-2. [AuthenticationException](#authenticationexception)
-3. [ConcurrencyException](#concurrencyexception)
-4. [ConfigurationException](#configurationexception)
-5. [DuplicateEntityException](#duplicateentityexception)
-6. [EntityNotFoundException](#entitynotfoundexception)
-7. [SecurityException](#securityexception)
-8. [UnauthorizedAccessException](#unauthorizedaccessexception)
+2. [AccessDeniedException](#accessdeniedexception)
+3. [AuthenticationException](#authenticationexception)
+4. [ConcurrencyException](#concurrencyexception)
+5. [ConfigurationException](#configurationexception)
+6. [DuplicateEntityException](#duplicateentityexception)
+7. [EntityNotFoundException](#entitynotfoundexception)
+8. [SecurityException](#securityexception)
 9. [Advanced Usage Patterns](#advanced-usage-patterns)
 10. [Best Practices](#best-practices)
 
@@ -245,9 +245,9 @@ public void ProcessPayment(Payment payment)
 
 ---
 
-## UnauthorizedAccessException
+## AccessDeniedException
 
-Thrown when authorization fails.
+Thrown when authorization fails(user is logged in but not permitted to do the operation) and the operation has to be halted.
 
 ### Basic Usage
 ```csharp

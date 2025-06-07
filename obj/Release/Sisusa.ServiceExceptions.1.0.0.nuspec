@@ -13,7 +13,7 @@
     <releaseNotes>Initial Release</releaseNotes>
     <copyright>(c) 2025, T_Dlamini</copyright>
     <tags>exceptions unauthorizedaccess entitynotfound concurrencyexception sisusa</tags>
-    <repository type="git" url="https://github.com/itmathsteacher20/Sisusa.ServiceExceptions" />
+    <repository type="git" url="https://github.com/itmathsteacher20/Sisusa.ServiceExceptions" commit="167313b597b42e5c9ab75a80faafe0edacd3ffea" />
     <dependencies>
       <group targetFramework="net9.0" />
     </dependencies>

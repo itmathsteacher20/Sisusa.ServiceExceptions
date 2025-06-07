@@ -9,3 +9,4 @@ E:\Documents\GitHub\Sisusa.ServiceExceptions\obj\Release\net9.0\Sisusa.ServiceEx
 E:\Documents\GitHub\Sisusa.ServiceExceptions\obj\Release\net9.0\refint\Sisusa.ServiceExceptions.dll
 E:\Documents\GitHub\Sisusa.ServiceExceptions\obj\Release\net9.0\Sisusa.ServiceExceptions.pdb
 E:\Documents\GitHub\Sisusa.ServiceExceptions\obj\Release\net9.0\ref\Sisusa.ServiceExceptions.dll
+E:\Documents\GitHub\Sisusa.ServiceExceptions\obj\Release\net9.0\Sisusa.ServiceExceptions.sourcelink.json

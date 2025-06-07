@@ -39,12 +39,12 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Sisusa.ServiceExceptions",
+              "Title": "Sisusa.ServiceExceptions.csproj",
               "DocumentMoniker": "E:\\Documents\\GitHub\\Sisusa.ServiceExceptions\\Sisusa.ServiceExceptions.csproj",
               "RelativeDocumentMoniker": "Sisusa.ServiceExceptions.csproj",
               "ToolTip": "E:\\Documents\\GitHub\\Sisusa.ServiceExceptions\\Sisusa.ServiceExceptions.csproj",
               "RelativeToolTip": "Sisusa.ServiceExceptions.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
               "WhenOpened": "2025-06-07T12:25:37.927Z",
               "EditorCaption": ""
@@ -57,7 +57,7 @@
               "RelativeDocumentMoniker": "README.md",
               "ToolTip": "E:\\Documents\\GitHub\\Sisusa.ServiceExceptions\\README.md",
               "RelativeToolTip": "README.md",
-              "ViewState": "AgIAANcAAAAAAAAAAAAAANsAAAAUAAAAAAAAAA==",
+              "ViewState": "AgIAAEwBAAAAAAAAAAAAAAMBAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
               "WhenOpened": "2025-06-07T12:23:22.826Z",
               "EditorCaption": ""
